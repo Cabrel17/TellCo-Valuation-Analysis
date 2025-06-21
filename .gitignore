@@ -8,3 +8,6 @@ __pycache__/
 # environnement virtuel
 /venv
 .cache/
+
+# secret keys
+.env 
